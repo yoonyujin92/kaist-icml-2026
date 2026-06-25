@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KAIST Graduate School of AI in ICML 2026</title>
+
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    background:#f5f7fa;
+    color:#222;
+}
+
+header{
+    background:#003E7E;
+    color:white;
+    padding:50px 20px;
+    text-align:center;
+}
+
+header h1{
+    margin:0;
+    font-size:38px;
+}
+
+header p{
+    margin-top:15px;
+    font-size:18px;
+    opacity:.95;
+}
+
+.container{
+    max-width:1000px;
+    margin:40px auto;
+    padding:0 20px;
+}
+
+.card{
+    background:white;
+    border-radius:12px;
+    padding:24px;
+    margin-bottom:24px;
+    box-shadow:0 3px 12px rgba(0,0,0,.08);
+}
+
+.card h2{
+    color:#003E7E;
+    margin-top:0;
+}
+
+.date{
+    display:inline-block;
+    background:#0066cc;
+    color:white;
+    padding:6px 12px;
+    border-radius:20px;
+    font-size:14px;
+    margin-bottom:15px;
+}
+
+.button{
+    display:inline-block;
+    margin-top:15px;
+    background:#003E7E;
+    color:white;
+    text-decoration:none;
+    padding:10px 18px;
+    border-radius:8px;
+    transition:.2s;
+}
+
+.button:hover{
+    background:#0055aa;
+}
+
+footer{
+    text-align:center;
+    background:#003E7E;
+    color:white;
+    padding:35px;
+    margin-top:60px;
+}
+
+ul{
+    line-height:1.8;
+}
+
+.location{
+    color:#666;
+    font-style:italic;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>KAIST Graduate School of AI in ICML 2026</h1>
+
+<p>
+Where to Find Our Faculty and Students
+</p>
+
+<p>
+Faculty members and students from KAIST Graduate School of AI are participating in ICML 2026 as organizers, keynote speakers, panel organizers, and community leaders.
+</p>
+
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>ICML Official Roles</h2>
+
+<ul>
+<li><strong>Chulhee Yun</strong> — Social Chair</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 3</div>
+
+<h2>Cortiq Summit 2026</h2>
+
+<ul>
+<li>Prof. Seong Joon Oh — Organizer</li>
+</ul>
+
+<a class="button" href="https://luma.com/c3e67mf0" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 5</div>
+
+<h2>ProbML 2026</h2>
+
+<ul>
+<li>Sungsoo Ahn — Organizer</li>
+<li>Juho Lee — Keynote Speaker</li>
+</ul>
+
+<p class="location">📍 KAIST Hongneung Campus</p>
+
+<a class="button" href="https://probml.cc/" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 6</div>
+
+<h2>KAIST @ ICML 2026</h2>
+
+<ul>
+<li>Hyunwoo Kim — Organizer</li>
+<li>Seong Joon Oh — Organizer</li>
+<li>Se-Young Yun — Organizer</li>
+</ul>
+
+<a class="button" href="https://kaist-icml.github.io/" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 6</div>
+
+<h2>AI4Science Korean Gathering @ ICML</h2>
+
+<ul>
+<li>Sungsoo Ahn — Organizer</li>
+</ul>
+
+<a class="button" href="https://holymollyhao.github.io/ai4science-korea/" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 6</div>
+
+<h2>Seoul World Model (EXPO Talk Panel)</h2>
+
+<p>
+Grounding World Simulation Models in a Real-World Metropolis
+</p>
+
+<ul>
+<li>Seungryong Kim — Organizer</li>
+</ul>
+
+<a class="button" href="https://icml.cc/virtual/2026/75730" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 8</div>
+
+<h2>WiML Symposium @ ICML 2026</h2>
+
+<ul>
+<li>Hyunjung Shim — Organizer</li>
+</ul>
+
+<a class="button" href="https://www.wiml.org/events/wiml-symposium-%40-icml-2026" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 10</div>
+
+<h2>ICML SPIGM Workshop</h2>
+
+<ul>
+<li>Seul Lee — Organizer</li>
+</ul>
+
+<a class="button" href="https://spigmworkshop2026.github.io/" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 11</div>
+
+<h2>ICML AI4Science Workshop</h2>
+
+<ul>
+<li>Sungsoo Ahn — Organizer</li>
+</ul>
+
+<a class="button" href="https://ai4sciencecommunity.github.io/" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 11</div>
+
+<h2>ICML Philosophy Meets Machine Learning Workshop</h2>
+
+<ul>
+<li>Prof. Jaesik Choi — Organizer</li>
+</ul>
+
+<a class="button" href="https://sites.google.com/view/philmlicml26/home" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+<div class="card">
+
+<div class="date">July 11</div>
+
+<h2>ICML Statistical Frameworks for Uncertainty in Agentic Systems Workshop</h2>
+
+<ul>
+<li>Prof. Seong Joon Oh — Keynote Speaker</li>
+</ul>
+
+<a class="button" href="https://agentic-uncertainty-icml2026.github.io/" target="_blank">
+Visit Event
+</a>
+
+</div>
+
+</div>
+
+<footer>
+
+<p>
+We look forward to seeing many colleagues at ICML 2026 and related events.
+</p>
+
+<p>
+Please join us at these events and connect with KAIST AI members throughout ICML week.
+</p>
+
+</footer>
+
+</body>
+</html>
